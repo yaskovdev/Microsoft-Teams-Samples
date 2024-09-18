@@ -2,7 +2,7 @@
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.14/MicrosoftTeams.schema.json",
   "version": "1.0.3",
   "manifestVersion": "1.14",
-  "id": "<<app-id>>",
+  "id": "344f8e5e-dd96-4944-bc11-3fbd4de15b4b",
   "packageName": "com.acs.sample",
   "developer": {
     "name": "Contoso",
@@ -25,7 +25,7 @@
   "accentColor": "#FFFFFF",
   "bots": [
     {
-      "botId": "<<microsoft-app-id>>",
+      "botId": "344f8e5e-dd96-4944-bc11-3fbd4de15b4b",
       "scopes": [
         "personal",
         "team",
@@ -55,10 +55,10 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "<<domain-name>>"
+    "a639-62-73-100-18.ngrok-free.app"
   ],
   "webApplicationInfo": {
-    "id": "<<microsoft-app-id>>",
+    "id": "344f8e5e-dd96-4944-bc11-3fbd4de15b4b",
     "resource": "https://RscString"
   }
 }
